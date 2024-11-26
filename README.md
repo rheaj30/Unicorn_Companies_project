@@ -40,6 +40,4 @@ Brief findings of this project are:
 5. Accel has funded the most unicorns.
 
 Please check `uc_analytical_results.pdf` for more details and meaningful discussion on query outputs and analytical results.
-
-Tableau Dashboard:
-![Dashboard](/img/dashboard.png?raw=true)
+ 
